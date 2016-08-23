@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Mapa" />
+        <item
+            android:id="@+id/nav_ranking"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Ranking" />
+        <item
+            android:id="@+id/nav_rec"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Reclamações" />
+        <item
+            android:id="@+id/nav_conf"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Configurações" />
+    </group>
+
+
+</menu>
